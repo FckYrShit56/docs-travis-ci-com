@@ -1,13 +1,11 @@
 # About Travis CI Repository [![Build Status](https://travis-ci.com/travis-ci/docs-travis-ci-com.svg?branch=master)](https://travis-ci.com/travis-ci/docs-travis-ci-com)
 
 This is the documentation site for [Travis CI!](https://docs.travis-ci.com/).
-Follow this guide to learn how to add new documentation and how to update existing documentation. 
-
-## Add Documentation
+Follow this guide to learn how to add new documentation a
 
 The following are the steps to add documentation.
 
-1. Review the [Travis CI documentation guidelines](/STYLE.md).
+1. Review the [Travis CI documentat guidelines](/STYLE.md).
 1. Check existing documentation. Verify that the documentation does not already exist or look for related documentation that can be enhanced. 
 1. Determine proper placement. In the [Travis CI repository](https://github.com/travis-ci/docs-travis-ci-com/tree/master), browse to the *user* folder (or any other specific folder) and create a new branch.
 1. Create a new file and add the new documentation files. 
